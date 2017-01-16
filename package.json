@@ -1,5 +1,5 @@
 {
-  "name": "@bohdantkachenko/di",
+  "name": "ezdi",
   "version": "1.0.1",
   "description": "Simple Dependency Injection for Node.js",
   "main": "lib/index.js",
